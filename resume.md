@@ -1,17 +1,17 @@
 Resume
 =====
-##Personal Information
+## Personal Information
 * Name:`Jason`
 * Gender: `Male`
 * Mobile: `15618652257`
 * Email: `weitway@hotmail.com`
 * Location: `Shanghai`
 * Google doc(public): [Jason's doc](https://drive.google.com/drive/folders/0B-2c-6VcDCsHfmY4UzBISkt4SVFNWWhzbExGdU5ETG9Pcy1HLVA2SWw2eUwzU1BzR3NaM3M)
-* This Resume: [resume]()
+* This Resume: [resume](https://github.com/weitway/resume/blob/master/resume.md)
 
 >*Tech Driving, Tech Living, Tech Talking*
 
-##Summary
+## Summary
 - 10+ years solid experience on Linux Kernel/Driver development.
 - Profound understanding on SOC related eco-system, including both SW stack & Hardware platform.
 - Proficient in C/assembly/shell, Linux system level programming.
@@ -20,26 +20,26 @@ Resume
 - Experience of project management & people management.
 - Good sense of quality control; be familiar with bug-tracking process and tools, GIT, clear case etc.
 
-##Education
-* ####2001/09-2004/04
+## Education
+* #### 2001/09-2004/04
 Shanghai Jiaotong university
 
 Major in Electronic Engineering
 
 Master
 
-* ####1997/09-2001/07
+* #### 1997/09-2001/07
 Tongji University
 
 Major in Electronic Information Engineering
 
 Bachelor
 
-##Working Experience
-* ####Period: 2016/6 – present
-####Company:  `Intel PEG`
+## Working Experience
+* #### Period: 2016/6 – present
+#### Company:  `Intel PEG`
 
-####Title:  `Software engineering architect`
+#### Title:  `Software engineering architect`
 
 * Container security project based on KVM/Qemu (*2016/10 - present*)
 
@@ -59,10 +59,10 @@ Role: `Arch design and leading the development`
 
 ![SC](SC.jpg)
 
-	* ####Period: 2014/7 – 2016/6
-####Company:  `Intel PEG`
+	* #### Period: 2014/7 – 2016/6
+#### Company:  `Intel PEG`
 
-####Title:  `Software engineering manager`
+#### Title:  `Software engineering manager`
 
 	*  LPSS Software CoE team manager
 
@@ -70,10 +70,10 @@ Role: `Arch design and leading the development`
 
 	Role: `leading the engineering activities on the software design, software development, software validation, and software release with good quality and high robustness`
 
-	* ####Period: 2012/3 – 2014/7
-####Company:  `Intel MCG`
+	* #### Period: 2012/3 – 2014/7
+#### Company:  `Intel MCG`
 
-####Title:  `Senior Software engineer`
+#### Title:  `Senior Software engineer`
 
 	*  IO & Sensor Andorid RD team tech leader
 
@@ -81,10 +81,10 @@ Role: `Arch design and leading the development`
 
 	Role: `Features development, integration and bug fixing, project leader for CTP/LEX/CHT/BXT`
 
-	* ####Period: 2006/4 – 2012/3
-####Company:  `Freescale`
+	* #### Period: 2006/4 – 2012/3
+#### Company:  `Freescale`
 
-####Title:  `Staff Software engineer`
+#### Title:  `Staff Software engineer`
 
 	*  i.MX series IPU(Image Process Unit)/Display/MMS owner
 
@@ -92,10 +92,10 @@ Role: `Arch design and leading the development`
 
 	Role: `Features development, integration and bug fixing, project leader for i.MX37`
 
-	* ####Period: 2005/3 – 2006/4
-####Company:  `USI Shanghai RD`
+	* #### Period: 2005/3 – 2006/4
+#### Company:  `USI Shanghai RD`
 
-####Title:  `Senior Software engineer`
+#### Title:  `Senior Software engineer`
 
 	*  Digital home product developer
 
@@ -103,10 +103,10 @@ Role: `Arch design and leading the development`
 
 	Role: `Porting BSP, establish basic system and maintenance, bug fixing`
 
-	* ####Period: 2004/4 – 2005/3
-####Company:  `Shanghai Hualong RD Center`
+	* #### Period: 2004/4 – 2005/3
+#### Company:  `Shanghai Hualong RD Center`
 
-####Title:  `Software engineer`
+#### Title:  `Software engineer`
 
 	*  Embeded Linux PDA developer
 
@@ -114,7 +114,7 @@ Role: `Arch design and leading the development`
 
 	Role: `Porting BSP, establish basic system and maintenance, bug fixing`
 
-##Hobby
+## Hobby
 	* Badminton
 	* Swimming
 	* Travel/hiking
