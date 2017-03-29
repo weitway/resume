@@ -123,3 +123,6 @@ Resume
 * Badminton
 * Swimming
 * Travel/hiking
+
+![CNY@Vietnam](CNY_Vietnam.jpg)
+![Angkor Wat](Angkor_Wat.jpg)
