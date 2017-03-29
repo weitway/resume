@@ -114,6 +114,11 @@ Resume
 
 >Role: `Porting BSP, establish basic system and maintenance, bug fixing`
 
+## Innovation & Bonus
+* IDF: Flexible sensor module for IOT sensing applications
+* SWPC presentation: LPSS Driver development shift left by SA-FPGA model
+* EIG Shanghai DRA
+
 ## Hobby
 * Badminton
 * Swimming
