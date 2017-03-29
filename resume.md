@@ -9,7 +9,7 @@ Resume
 * Google doc(public): [Jason's doc](https://drive.google.com/drive/folders/0B-2c-6VcDCsHfmY4UzBISkt4SVFNWWhzbExGdU5ETG9Pcy1HLVA2SWw2eUwzU1BzR3NaM3M)
 * This Resume: [resume](https://github.com/weitway/resume/blob/master/resume.md)
 
->*Tech Driving, Tech Living, Tech Talking*
+>*Tech Driving, Tech Living, Tech Thinking, Tech Talking*
 
 ## Summary
 - 10+ years solid experience on Linux Kernel/Driver development.
@@ -117,7 +117,7 @@ Resume
 ## Innovation & Bonus
 * IDF: Flexible sensor module for IOT sensing applications
 * SWPC presentation: LPSS Driver development shift left by SA-FPGA model
-* EIG Shanghai DRA
+* 2016 EIG Shanghai DRA
 
 ## Hobby
 * Badminton
