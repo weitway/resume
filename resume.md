@@ -22,99 +22,99 @@ Resume
 
 ## Education
 * #### 2001/09-2004/04
-Shanghai Jiaotong university
+ >Shanghai Jiaotong university
 
-Major in Electronic Engineering
+ >Major in Electronic Engineering
 
-Master
+ >Master
 
 * #### 1997/09-2001/07
-Tongji University
+ >Tongji University
 
-Major in Electronic Information Engineering
+ >Major in Electronic Information Engineering
 
-Bachelor
+ >Bachelor
 
 ## Working Experience
 * #### Period: 2016/6 – present
-#### Company:  `Intel PEG`
+>#### Company:  `Intel PEG`
 
-#### Title:  `Software engineering architect`
+>#### Title:  `Software engineering architect`
 
 * Container security project based on KVM/Qemu (*2016/10 - present*)
 
-Description: `Memory isolation based on Intel VT-x EPT technology and type II hypervisor KVM/Qemu`
+>Description: `Memory isolation based on Intel VT-x EPT technology and type II hypervisor KVM/Qemu`
 
-Key Words: `Virtulization, Security, KVM/Qemu, EPT, Multi-root_hap, VMCALL, VMFUNC, Data-exchange, MMU`
+>Key Words: `Virtulization, Security, KVM/Qemu, EPT, Multi-root_hap, VMCALL, VMFUNC, Data-exchange, MMU`
 
-Role: `Arch design and leading the development`
+>Role: `Arch design and leading the development`
 
 * Container security POC based on Hypersim (*2016/6 - 2016/10*)
 
-Description: `Memory isolation POC based on Intel VT-x EPT technology and type I hypervisor hypersim`
+>Description: `Memory isolation POC based on Intel VT-x EPT technology and type I hypervisor hypersim`
 
-Key Words: `Virtulization, Security, Hypersim, EPT, Multi-View, VMCALL, VMFUNC, Data-exchange, MMU`
+>Key Words: `Virtulization, Security, Hypersim, EPT, Multi-View, VMCALL, VMFUNC, Data-exchange, MMU`
 
-Role: `Arch design and leading the development`
+>Role: `Arch design and leading the development`
 
 ![SC](SC.jpg)
 
-	* #### Period: 2014/7 – 2016/6
-#### Company:  `Intel PEG`
+* #### Period: 2014/7 – 2016/6
+>#### Company:  `Intel PEG`
 
-#### Title:  `Software engineering manager`
+>#### Title:  `Software engineering manager`
 
-	*  LPSS Software CoE team manager
+*  LPSS Software CoE team manager
 
-	Key Words: `LPSS, COE, android, windows, transition`
+>Key Words: `LPSS, COE, android, windows, transition`
 
-	Role: `leading the engineering activities on the software design, software development, software validation, and software release with good quality and high robustness`
+>Role: `leading the engineering activities on the software design, software development, software validation, and software release with good quality and high robustness`
 
-	* #### Period: 2012/3 – 2014/7
-#### Company:  `Intel MCG`
+* #### Period: 2012/3 – 2014/7
+>#### Company:  `Intel MCG`
 
-#### Title:  `Senior Software engineer`
+>#### Title:  `Senior Software engineer`
 
-	*  IO & Sensor Andorid RD team tech leader
+*  IO & Sensor Andorid RD team tech leader
 
-	Key Words: `android, IO(I2C/SPI/UART/GPIO/PMIC/Touch/PCIE/IPC etc), Sensor(Gyro/Compass/Accelerometer/Proximity/Barometer/Ambient Light etc)`
+>Key Words: `android, IO(I2C/SPI/UART/GPIO/PMIC/Touch/PCIE/IPC etc), Sensor(Gyro/Compass/Accelerometer/Proximity/Barometer/Ambient Light etc)`
 
-	Role: `Features development, integration and bug fixing, project leader for CTP/LEX/CHT/BXT`
+>Role: `Features development, integration and bug fixing, project leader for CTP/LEX/CHT/BXT`
 
-	* #### Period: 2006/4 – 2012/3
-#### Company:  `Freescale`
+* #### Period: 2006/4 – 2012/3
+>#### Company:  `Freescale`
 
-#### Title:  `Staff Software engineer`
+>#### Title:  `Staff Software engineer`
 
-	*  i.MX series IPU(Image Process Unit)/Display/MMS owner
+*  i.MX series IPU(Image Process Unit)/Display/MMS owner
 
-	Key Words: `Linux, android, IPU, pre/post processing, framebuffer, v4l2 capture/output, display(tve/vga/hdmi/lvds), MMS, Gstreamer`
+>Key Words: `Linux, android, IPU, pre/post processing, framebuffer, v4l2 capture/output, display(tve/vga/hdmi/lvds), MMS, Gstreamer`
 
-	Role: `Features development, integration and bug fixing, project leader for i.MX37`
+>Role: `Features development, integration and bug fixing, project leader for i.MX37`
 
-	* #### Period: 2005/3 – 2006/4
-#### Company:  `USI Shanghai RD`
+* #### Period: 2005/3 – 2006/4
+>#### Company:  `USI Shanghai RD`
 
-#### Title:  `Senior Software engineer`
+>#### Title:  `Senior Software engineer`
 
-	*  Digital home product developer
+*  Digital home product developer
 
-	Key Words: `Linux, VOIP, Digital Media Server, xscale, PowerPC`
+>Key Words: `Linux, VOIP, Digital Media Server, xscale, PowerPC`
 
-	Role: `Porting BSP, establish basic system and maintenance, bug fixing`
+>Role: `Porting BSP, establish basic system and maintenance, bug fixing`
 
-	* #### Period: 2004/4 – 2005/3
-#### Company:  `Shanghai Hualong RD Center`
+* #### Period: 2004/4 – 2005/3
+>#### Company:  `Shanghai Hualong RD Center`
 
-#### Title:  `Software engineer`
+>#### Title:  `Software engineer`
 
-	*  Embeded Linux PDA developer
+*  Embeded Linux PDA developer
 
-	Key Words: `Linux, uclinux, PDA, s3c2410/44b0`
+>Key Words: `Linux, uclinux, PDA, s3c2410/44b0`
 
-	Role: `Porting BSP, establish basic system and maintenance, bug fixing`
+>Role: `Porting BSP, establish basic system and maintenance, bug fixing`
 
 ## Hobby
-	* Badminton
-	* Swimming
-	* Travel/hiking
+* Badminton
+* Swimming
+* Travel/hiking
