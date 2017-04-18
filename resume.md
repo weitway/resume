@@ -15,7 +15,7 @@ Resume
 - 10+ years solid experience on Linux Kernel/Driver development.
 - Profound understanding on SOC related eco-system, including both SW stack & Hardware platform.
 - Proficient in C/assembly/shell, Linux system level programming.
-- Solid knowledge on x86 architecture & virtulization.
+- Solid knowledge on x86 architecture & virtualization.
 - Strong capability of debugging, troubleshooting and problem resolving on both software and platform related issues.
 - Experience of project management & people management.
 - Good sense of quality control; be familiar with bug-tracking process and tools, GIT, clear case etc.
@@ -41,23 +41,23 @@ Resume
 
 >#### Title:  `Software engineering architect`
 
-* Container security project based on KVM/Qemu (*2016/10 - present*)
+* Container security related project based on KVM/Qemu (*2016/10 - present*)
 
 >Description: `Memory isolation based on Intel VT-x EPT technology and type II hypervisor KVM/Qemu`
 
->Key Words: `Virtulization, Security, KVM/Qemu, EPT, Multi-root_hap, VMCALL, VMFUNC, Data-exchange, MMU`
+>Key Words: `Virtualization, Security, KVM/Qemu, EPT, Multi-root_hpa, VMCALL, VMFUNC, Data-exchange, MMU`
 
 >Role: `Arch design and leading the development`
 
-* Container security POC based on Hypersim (*2016/6 - 2016/10*)
+* Container security related POC based on Hypersim (*2016/6 - 2016/10*)
 
 >Description: `Memory isolation POC based on Intel VT-x EPT technology and type I hypervisor hypersim`
 
->Key Words: `Virtulization, Security, Hypersim, EPT, Multi-View, VMCALL, VMFUNC, Data-exchange, MMU`
+>Key Words: `Virtualization, Security, Hypersim, EPT, Multi-View, VMCALL, VMFUNC, Data-exchange, MMU`
 
 >Role: `Arch design and leading the development`
 
-![SC](SC.jpg)
+![SC](SC1.jpg)
 
 * #### Period: 2014/7 – 2016/6
 >#### Company:  `Intel PEG`
