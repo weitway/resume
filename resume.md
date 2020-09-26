@@ -130,6 +130,7 @@ Resume
 * IDF: Flexible sensor module for IOT sensing applications
 * SWPC presentation: LPSS Driver development shift left by SA-FPGA model
 * 2016 EIG Shanghai DRA
+* 2018 & 2020 IAGS SSE DRA
 
 ## Hobby
 * Badminton
