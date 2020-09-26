@@ -52,9 +52,10 @@ Resume
 
 ![ACRN](acrn.JPG)
 
-* #### Period: 2016/6 – 2017/6
->#### Company:  `Intel PEG`
+* #### Period: 2012/3 – 2017/6
+>#### Company:  `Intel MCG & PEG`
 
+* #### Period: 2016/6 – 2017/6
 >#### Title:  `Software engineering architect`
 
 * Container security related project based on KVM/Qemu (*2016/10 - present*)
@@ -72,9 +73,6 @@ Resume
 >Key Words: `Virtualization, Security, Hypersim, EPT, Multi-View, VMCALL, VMFUNC, Data-exchange, MMU`
 
 >Role: `Arch design and leading the development`
-
-* #### Period: 2012/3 – 2016/6
->#### Company:  `Intel MCG & PEG`
 
 * #### Period: 2014/7 – 2016/6
 >#### Title:  `Software engineering manager`
