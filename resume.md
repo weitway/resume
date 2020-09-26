@@ -50,7 +50,7 @@ Resume
 
 >Role: `Arch design and leading the development`
 
-![ACRN](acrn.jpg)
+![ACRN](acrn.JPG)
 
 * #### Period: 2016/6 – 2017/6
 >#### Company:  `Intel PEG`
