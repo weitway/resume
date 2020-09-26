@@ -73,9 +73,10 @@ Resume
 
 >Role: `Arch design and leading the development`
 
-* #### Period: 2014/7 – 2016/6
->#### Company:  `Intel PEG`
+* #### Period: 2012/3 – 2016/6
+>#### Company:  `Intel MCG & PEG`
 
+* #### Period: 2014/7 – 2016/6
 >#### Title:  `Software engineering manager`
 
 *  LPSS Software CoE team manager
@@ -85,8 +86,6 @@ Resume
 >Role: `leading the engineering activities on the software design, software development, software validation, and software release with good quality and high robustness`
 
 * #### Period: 2012/3 – 2014/7
->#### Company:  `Intel MCG`
-
 >#### Title:  `Senior Software engineer`
 
 *  IO & Sensor Andorid RD team tech leader
