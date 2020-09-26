@@ -12,7 +12,7 @@ Resume
 >*Tech Driving, Tech Living, Tech Thinking, Tech Talking*
 
 ## Summary
-- Solid experience and understanding on virtualization/hypervisor framework, from CPU to Memory virtualization, to IOMMU, from device model, virtio, to instruction emulation, to devie pass-thru, from interrupt controller to PCI, to graphics, from UEFI firmware to ACPI, to secure boot. 
+- Solid experience and understanding on virtualization/hypervisor framework, from CPU to Memory virtualization, to IOMMU, from device model, to virtio, to devie pass-thru, from IO emulation to instruction emulation, from interrupt controller to PCI, to graphics, from UEFI firmware to ACPI, to multiboot, to secure boot. 
 - 10+ years solid experience on Linux Kernel/Driver development.
 - Profound understanding on SOC related eco-system, including both SW stack & Hardware platform.
 - Proficient in C/assembly/shell, Linux system level programming.
