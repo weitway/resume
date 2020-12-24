@@ -48,7 +48,7 @@ Resume
 
 >Key Words: `Virtualization, virtual machine, VMX, EPT, IOMMU, Interrupt Controller, PCI, pass-thru, Device Model, virtio, graphics, secure boot, function safety`
 
->Role: `Arch design and leading the development`
+>Role: `Key contributor from the beginning. Arch design and leading the development`
 
 ![ACRN](acrn.JPG)
 
