@@ -12,11 +12,11 @@ Resume
 >*Tech Driving, Tech Living, Tech Thinking, Tech Talking*
 
 ## Summary
-- Solid experience and understanding on virtualization/hypervisor framework, from CPU to Memory virtualization, to IOMMU, from device model, to virtio, to devie pass-thru, from IO emulation to instruction emulation, from interrupt controller to PCI, to graphics, from UEFI firmware to ACPI, to multiboot, to secure boot. 
+- Solid experience and profound understanding on virtualization/hypervisor framework.
 - 10+ years solid experience on Linux Kernel/Driver development.
+- Solid knowledge on x86 architecture & its HW virtualization technology.
 - Profound understanding on SOC related eco-system, including both SW stack & Hardware platform.
 - Proficient in C/assembly/shell, Linux system level programming.
-- Solid knowledge on x86 architecture & its HW virtualization technology.
 - Strong capability of debugging, troubleshooting and problem resolving on both software and platform related issues.
 - Experience of project management & people management.
 - Good sense of quality control; be familiar with bug-tracking process and tools, GIT, clear case etc.
@@ -46,7 +46,7 @@ Resume
 
 >Description: `An open source lightweight IoT Hypervisor`
 
->Key Words: `Virtualization, VMX, EPT, IOMMU, Interrupt Controller, PCI, pass-thru, Device Model, virtio, graphics,security, function safety`
+>Key Words: `Virtualization, virtual machine, VMX, EPT, IOMMU, Interrupt Controller, PCI, pass-thru, Device Model, virtio, graphics, secure boot, function safety`
 
 >Role: `Arch design and leading the development`
 
@@ -126,8 +126,8 @@ Resume
 >Role: `Porting BSP, establish basic system and maintenance, bug fixing`
 
 ## Innovation & Bonus
-* IDF: Flexible sensor module for IOT sensing applications
-* SWPC presentation: LPSS Driver development shift left by SA-FPGA model
+* patent: Flexible sensor module for IOT sensing applications
+* patent: A method and apparatus to mitigate the interference of split lock
 * 2016 EIG Shanghai DRA
 * 2018 & 2020 IAGS SSE DRA
 
