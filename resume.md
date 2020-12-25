@@ -42,11 +42,11 @@ Resume
 
 >#### Title:  `Software engineering architect`
 
-* ACRN Hypervisor [Link](https://projectacrn.org/) (*2017/6 - present*)
+* A Linux Foundation Project - ACRN Hypervisor [Link](https://projectacrn.org/) (*2017/6 - present*)
 
 >Description: `An open source lightweight IoT Hypervisor`
 
->Key Words: `Virtualization, virtual machine, VMX, EPT, IOMMU, Interrupt Controller, PCI, pass-thru, Device Model, virtio, graphics, secure boot, function safety`
+>Key Words: `Virtualization, virtual machine, VMX, EPT, IOMMU, Interrupt Controller, PCI, pass-thru, Device Model, virtio, graphics, trusty, secure boot, multiboot, ACPI, function safety`
 
 >Role: `Key contributor from the beginning. Arch design and leading the development`
 
